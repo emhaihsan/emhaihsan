@@ -39,5 +39,7 @@ I'm a computer vision enthusiast, based in Indonesia, with a love for all tech t
 - [Kaggle](https://www.kaggle.com/emhaihsan)
 
 #### 📚 Check Out My Latest Blog Posts
-**[hashnode](emhaihsan.hashnode.dev)**
+- [Computer Vision](https://emhaihsan.hashnode.dev/series/computer-vision)
+- [Machine Learning](https://emhaihsan.hashnode.dev/series/ai-ml-dl)
+- [Data Structure](https://emhaihsan.hashnode.dev/series/data-structure)
 
