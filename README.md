@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there! 👋
 
-I'm a computer vision enthusiast, based in Indonesia, with a love for all things tech. 
+I'm a computer vision enthusiast, based in Indonesia, with a love for all tech things. 
 
 #### 🔧 Technologies & Tools
 <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png"  width="100" height="100"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tensorflow_logo_icon_168671.png"  width="100" height="100"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png"  width="100" height="100">
