@@ -35,7 +35,7 @@ I'm a computer vision enthusiast, based in Indonesia, with a love for all things
 -->
   
 #### 💬 Let's Connect
-- [LinkedIn]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/emhaihsan/))
+- [LinkedIn](https://www.linkedin.com/in/emhaihsan/)
 - [Kaggle](https://www.kaggle.com/emhaihsan)
 
 #### 📚 Check Out My Latest Blog Posts at [hashnode](emhaihsan.hashnode.dev)
