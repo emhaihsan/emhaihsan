@@ -30,7 +30,7 @@ I'm a computer vision enthusiast, based in Indonesia, with a love for all tech t
 <p align="left">
 <a href="https://github.com/mhihsan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhihsan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhihsan&layout=compact&layout=compact&theme=algolia"/>
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhihsan&layout=compact&layout=compact&theme=algolia"/> -->
 </a>
 </p>
 
