@@ -40,13 +40,21 @@ I'm a computer vision enthusiast, based in Indonesia, with a love for all tech t
 <br/>
 
 #### 💬 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/emhaihsan/)
-- [Kaggle](https://www.kaggle.com/emhaihsan)
+<!-- - [LinkedIn](https://www.linkedin.com/in/emhaihsan/)
+- [Kaggle](https://www.kaggle.com/emhaihsan) -->
+<div id="badges" align = "left">
+  <a href="https://www.linkedin.com/in/emhaihsan/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 #### 📚 Check Out My Latest Blog Posts
-- [Computer Vision](https://emhaihsan.hashnode.dev/series/computer-vision)
-- [Machine Learning](https://emhaihsan.hashnode.dev/series/ai-ml-dl)
-- [Data Structure](https://emhaihsan.hashnode.dev/series/data-structure)
+<div id="badges" align = "left">
+  <a href="https://emhaihsan.hashnode.dev/">
+    <img src="https://img.shields.io/badge/hashnode-orange?style=for-the-badge&logo=hashnode&logoColor=royalblue" alt="hashnode Badge"/>
+  </a>
+
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mhihsan&label=mhihsan%20Profile%20Views%20&color=dc143c&style=plastic" alt="mhihsan" /> </p>
 
