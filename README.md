@@ -18,22 +18,27 @@ Here are some ideas to get you started:
 
 I'm a computer vision enthusiast, based in Indonesia, with a love for all tech things. 
 
-#### 🔧 Technologies & Tools
-<img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png"  width="100" height="100"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tensorflow_logo_icon_168671.png"  width="100" height="100"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png"  width="100" height="100">
 
-<!--
-## 🚀 What I'm Currently Working On
-- [Project 1](https://github.com/your-username/repo1)
-- [Project 2](https://github.com/your-username/repo2)
-- [Project 3](https://github.com/your-username/repo3)
+### Tech Stack
+  <a href="https://python.org/"><img align="left" alt="Python" title="Python" width="50px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" /></a>
+  <a href="https://tensorflow.org/"><img align="left" alt="Tensorflow" title="Tensorflow" width="50px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tensorflow_logo_icon_168671.png" /></a>
+  <a href="https://pytorch.org/"><img align="left" alt="PyTorch" title="PyTorch" width="50px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png" /></a>
+  <br>
+  <br>
+  
+### Github Statistic
+<p align="left">
+<a href="https://github.com/mhihsan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhihsan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhihsan&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
 
-  
-## 🌱 What I'm Learning
-- [New Technology 1](https://link-to-resource)
-- [New Technology 2](https://link-to-resource)
-- [New Technology 3](https://link-to-resource)
--->
-  
+### Recent Github Activity
+<br/>
+	<a href="https://github.com/mhihsan"><img alt="mhihsan Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mhihsan&custom_title=Muhammad%20Ihsan%20Contribution%20Graph&theme=react-dark" /></a>
+<br/>
+
 #### 💬 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/emhaihsan/)
 - [Kaggle](https://www.kaggle.com/emhaihsan)
@@ -42,4 +47,6 @@ I'm a computer vision enthusiast, based in Indonesia, with a love for all tech t
 - [Computer Vision](https://emhaihsan.hashnode.dev/series/computer-vision)
 - [Machine Learning](https://emhaihsan.hashnode.dev/series/ai-ml-dl)
 - [Data Structure](https://emhaihsan.hashnode.dev/series/data-structure)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mhihsan&label=mhihsan%20Profile%20Views%20&color=dc143c&style=plastic" alt="mhihsan" /> </p>
 
