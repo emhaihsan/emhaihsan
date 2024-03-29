@@ -20,19 +20,23 @@ I'm a computer vision enthusiast, based in Indonesia, with a love for all tech t
 
 
 ### Tech Stack
-  <a href="https://python.org/"><img align="left" alt="Python" title="Python" width="50px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" /></a>
-  <a href="https://tensorflow.org/"><img align="left" alt="Tensorflow" title="Tensorflow" width="50px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tensorflow_logo_icon_168671.png" /></a>
-  <a href="https://pytorch.org/"><img align="left" alt="PyTorch" title="PyTorch" width="50px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png" /></a>
+  <a href="https://python.org/"><img align="left" alt="Python" title="Python" height="50px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" /></a>
+  <a href="https://tensorflow.org/"><img align="left" alt="Tensorflow" title="Tensorflow" height="50px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tensorflow_logo_icon_168671.png" /></a>
+  <a href="https://pytorch.org/"><img align="left" alt="PyTorch" title="PyTorch" height="50px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png" /></a>
+  <a href="#"><img align="left" alt="HTML" title="HTML" height="50px" src="https://e7.pngegg.com/pngimages/410/100/png-clipart-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design-thumbnail.png" /></a>
+  <a href="#"><img align="left" alt="CSS" title="CSS" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" /></a>
   <br>
   <br>
   
-### Github Statistic
+<!-- ### Github Statistics
 <p align="left">
 <a href="https://github.com/emhaihsan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=emhaihsan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emhaihsan&layout=compact&layout=compact&theme=algolia"/> -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emhaihsan&layout=compact&layout=compact&theme=algolia"/> 
 </a>
-</p>
+</p> 
+-->
+
 
 ### Recent Github Activity
 <br/>
