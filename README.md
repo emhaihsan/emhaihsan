@@ -37,11 +37,12 @@ I'm a computer vision enthusiast, based in Indonesia, with a love for all tech t
 </p> 
 -->
 
-
+<!--
 ### Recent Github Activity
 <br/>
 	<a href="https://github.com/emhaihsan"><img alt="emhaihsan Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=emhaihsan&custom_title=Muhammad%20Ihsan%20Contribution%20Graph&theme=react-dark" /></a>
 <br/>
+-->
 
 #### 💬 Let's Connect
 <!-- - [LinkedIn](https://www.linkedin.com/in/emhaihsan/)
