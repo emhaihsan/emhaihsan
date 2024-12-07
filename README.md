@@ -47,8 +47,3 @@ I'm a tech enthusiast passionate about blockchain technology and artificial inte
   <img src="https://komarev.com/ghpvc/?username=emhaihsan&label=Profile%20Views&color=0e75b6&style=flat" alt="emhaihsan" />
 </p>
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/emhaihsan/emhaihsan/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
